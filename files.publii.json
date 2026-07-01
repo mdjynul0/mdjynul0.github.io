@@ -1,0 +1,697 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "a3ae9a880fc8455a7e1344507a3dab3f"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "4e1c6244455e2a19ec7b294b7b1c2331"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "a0ba884548820066dfadd8416036abba"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "c8f24385262425ace55bdac985c878df"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "dafec4f87fead6718cb125f0b0fc8441"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/lucas-turner",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/lucas-turner/index.html",
+        "type": "file",
+        "md5": "125332db3fcd0ee9b6fcb8cf067861a6"
+    },
+    {
+        "path": "authors/lucas-turner/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/lucas-turner/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/lucas-turner/page/2/index.html",
+        "type": "file",
+        "md5": "931de0f73ba20cb071fc9e39cd56476c"
+    },
+    {
+        "path": "authors/lucas-turner/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/lucas-turner/page/3/index.html",
+        "type": "file",
+        "md5": "957859ef223edb6b7bab46170de8e5e0"
+    },
+    {
+        "path": "authors/lucas-turner/page/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/lucas-turner/page/4/index.html",
+        "type": "file",
+        "md5": "54dccff9a9c3dac54926c46c50811e26"
+    },
+    {
+        "path": "authors/lucas-turner/page/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/lucas-turner/page/5/index.html",
+        "type": "file",
+        "md5": "bf744c33e0583b69449987a962c39e67"
+    },
+    {
+        "path": "authors/lucas-turner/page/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/lucas-turner/page/6/index.html",
+        "type": "file",
+        "md5": "fcdac90e145f5b7ebcbe0b4499e9de98"
+    },
+    {
+        "path": "authors/lucas-turner/page/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/lucas-turner/page/7/index.html",
+        "type": "file",
+        "md5": "791c48fb23fe4933decb69a13d44b4ef"
+    },
+    {
+        "path": "authors/lucas-turner/page/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/lucas-turner/page/8/index.html",
+        "type": "file",
+        "md5": "1106bb117855617927f6528de68dde36"
+    },
+    {
+        "path": "baroque-vs-victorian-furniture-a-luxury-guide-to-european-classical-interior-styles",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/baroque-vs-victorian-furniture-a-luxury-guide-to-european-classical-interior-styles/index.html",
+        "type": "file",
+        "md5": "cb4c2dc370a9c0bc592d0c930424689a"
+    },
+    {
+        "path": "bespoke-furniture-luxury-usa-the-art-of-custom-high-end-interior-design",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/bespoke-furniture-luxury-usa-the-art-of-custom-high-end-interior-design/index.html",
+        "type": "file",
+        "md5": "ed7655c2c6d429e9a9da4e90d0a7f3fb"
+    },
+    {
+        "path": "bnpl-furniture-the-complete-guide-to-buy-now-pay-later-furniture-financing-in-the-us",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/bnpl-furniture-the-complete-guide-to-buy-now-pay-later-furniture-financing-in-the-us/index.html",
+        "type": "file",
+        "md5": "ff328bab11ebed344de08951b8b4c013"
+    },
+    {
+        "path": "buy-furniture-pay-later-luxury-furniture-financing-options-in-the-usa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/buy-furniture-pay-later-luxury-furniture-financing-options-in-the-usa/index.html",
+        "type": "file",
+        "md5": "fce47076f24059923d61fd8fa8123241"
+    },
+    {
+        "path": "buy-now-pay-later-furniture-financing-a-complete-guide-to-premium-installment-options-in-the-us",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/buy-now-pay-later-furniture-financing-a-complete-guide-to-premium-installment-options-in-the-us/index.html",
+        "type": "file",
+        "md5": "f99758304e6a144f14c586d3fed07f29"
+    },
+    {
+        "path": "buy-now-pay-later-home-decor-financing-a-complete-guide-to-premium-interior-styling-payments-in-the-us",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/buy-now-pay-later-home-decor-financing-a-complete-guide-to-premium-interior-styling-payments-in-the-us/index.html",
+        "type": "file",
+        "md5": "4035de91a3e24efaa96d59cab2829775"
+    },
+    {
+        "path": "california-king-bedroom-sets-the-complete-luxury-buying-guide-for-spacious-master-suites",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/california-king-bedroom-sets-the-complete-luxury-buying-guide-for-spacious-master-suites/index.html",
+        "type": "file",
+        "md5": "3254964838eed5ccb516a99b563b5b1c"
+    },
+    {
+        "path": "classic-french-furniture-styles-a-complete-guide-to-timeless-luxury-design",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/classic-french-furniture-styles-a-complete-guide-to-timeless-luxury-design/index.html",
+        "type": "file",
+        "md5": "008094064e9e43047dda42028eedc9e4"
+    },
+    {
+        "path": "classic-french-furniture-the-complete-guide-to-timeless-luxury-heritage-craftsmanship-and-elegant-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/classic-french-furniture-the-complete-guide-to-timeless-luxury-heritage-craftsmanship-and-elegant-interiors/index.html",
+        "type": "file",
+        "md5": "2935d6505ecebbf82ce5587b927461f5"
+    },
+    {
+        "path": "classic-french-style-furniture-the-complete-guide-to-timeless-luxury-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/classic-french-style-furniture-the-complete-guide-to-timeless-luxury-interiors/index.html",
+        "type": "file",
+        "md5": "a155ab806da6536da486301e39f9d802"
+    },
+    {
+        "path": "custom-furniture-luxury-usa-bespoke-design-for-high-end-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/custom-furniture-luxury-usa-bespoke-design-for-high-end-interiors/index.html",
+        "type": "file",
+        "md5": "a58d108a63e913292db270f4ed269286"
+    },
+    {
+        "path": "custom-made-furniture-luxury-usa-bespoke-design-for-high-end-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/custom-made-furniture-luxury-usa-bespoke-design-for-high-end-interiors/index.html",
+        "type": "file",
+        "md5": "06887a4b68ebe59831ff8357249d4386"
+    },
+    {
+        "path": "egyptian-furniture-the-art-of-symbolic-luxury-and-timeless-interior-design",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/egyptian-furniture-the-art-of-symbolic-luxury-and-timeless-interior-design/index.html",
+        "type": "file",
+        "md5": "46f508629cf71b7b9e8595a2d56495bb"
+    },
+    {
+        "path": "egyptian-style-furniture-the-art-of-symbolic-luxury-and-timeless-interior-design",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/egyptian-style-furniture-the-art-of-symbolic-luxury-and-timeless-interior-design/index.html",
+        "type": "file",
+        "md5": "3bb9541dabb38e2a61f52ca249a4da33"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "2e1793d7d80fd06ce1f74f088a5a8a7e"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "a331b16d49fba3317799226a0102eb40"
+    },
+    {
+        "path": "french-classic-furniture-a-complete-guide-to-timeless-luxury-traditional-craftsmanship-and-elegant-interior-design",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/french-classic-furniture-a-complete-guide-to-timeless-luxury-traditional-craftsmanship-and-elegant-interior-design/index.html",
+        "type": "file",
+        "md5": "6f0c3b8e51e9402cf13f303a3dbd7753"
+    },
+    {
+        "path": "french-design-furniture-a-complete-guide-to-luxury-style-timeless-craftsmanship-and-elegant-interior-design",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/french-design-furniture-a-complete-guide-to-luxury-style-timeless-craftsmanship-and-elegant-interior-design/index.html",
+        "type": "file",
+        "md5": "8f3dc1266aa39849836e84fde8a82384"
+    },
+    {
+        "path": "french-inspired-furniture-how-to-bring-timeless-parisian-elegance-into-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/french-inspired-furniture-how-to-bring-timeless-parisian-elegance-into-your-home/index.html",
+        "type": "file",
+        "md5": "28e9a90a63408874c24c317d19098531"
+    },
+    {
+        "path": "french-luxury-furniture-the-complete-guide-to-timeless-french-elegance",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/french-luxury-furniture-the-complete-guide-to-timeless-french-elegance/index.html",
+        "type": "file",
+        "md5": "a0df4afb1b1275e018fa4502c93a26f8"
+    },
+    {
+        "path": "french-style-furniture-a-complete-guide-to-classic-french-design-for-luxury-homes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/french-style-furniture-a-complete-guide-to-classic-french-design-for-luxury-homes/index.html",
+        "type": "file",
+        "md5": "b84e13ef4c05efd08c5fe6364e2355fe"
+    },
+    {
+        "path": "french-style-of-furniture-a-complete-guide-to-timeless-luxury-classic-design-and-elegant-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/french-style-of-furniture-a-complete-guide-to-timeless-luxury-classic-design-and-elegant-interiors/index.html",
+        "type": "file",
+        "md5": "1e10d71aaf435b6fa21b7f6846e96efb"
+    },
+    {
+        "path": "handmade-furniture-luxury-usa-artisan-craftsmanship-for-high-end-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/handmade-furniture-luxury-usa-artisan-craftsmanship-for-high-end-interiors/index.html",
+        "type": "file",
+        "md5": "046d36df181d63322a9ae6496995e613"
+    },
+    {
+        "path": "home-furniture-buy-now-pay-later-financing-usa-complete-guide-to-luxury-furniture-installment-plans",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/home-furniture-buy-now-pay-later-financing-usa-complete-guide-to-luxury-furniture-installment-plans/index.html",
+        "type": "file",
+        "md5": "124375f00ef202f37f7931e6d2b1186b"
+    },
+    {
+        "path": "homey-design-catalog-curated-luxury-furniture-collections-for-warm-modern-living",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/homey-design-catalog-curated-luxury-furniture-collections-for-warm-modern-living/index.html",
+        "type": "file",
+        "md5": "b23b150af9cfdd02f902ce981b1948e0"
+    },
+    {
+        "path": "homey-design-collections-curated-luxury-furniture-systems-for-warm-modern-living",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/homey-design-collections-curated-luxury-furniture-systems-for-warm-modern-living/index.html",
+        "type": "file",
+        "md5": "f561bf19a94a91f4a5b445b9e824c8e9"
+    },
+    {
+        "path": "homey-design-furniture-the-art-of-warm-luxury-and-comfort-driven-interior-living",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/homey-design-furniture-the-art-of-warm-luxury-and-comfort-driven-interior-living/index.html",
+        "type": "file",
+        "md5": "70606fc0c83aaa9846cf6e002727d7ac"
+    },
+    {
+        "path": "homey-design-interior-the-art-of-warm-luxury-and-human-centered-living",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/homey-design-interior-the-art-of-warm-luxury-and-human-centered-living/index.html",
+        "type": "file",
+        "md5": "ea17214ffb427530668d73595a42fe10"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "30de19d5fabe097fa44ffb85ebc483ef"
+    },
+    {
+        "path": "italian-lacquer-furniture-luxury-high-gloss-design-guide-for-premium-us-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/italian-lacquer-furniture-luxury-high-gloss-design-guide-for-premium-us-interiors/index.html",
+        "type": "file",
+        "md5": "387c3ff0ee5d1617f7a1e33c9d02f0d1"
+    },
+    {
+        "path": "luxury-bedroom-furniture-sets-usa-bespoke-design-for-elegant-master-suites",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/luxury-bedroom-furniture-sets-usa-bespoke-design-for-elegant-master-suites/index.html",
+        "type": "file",
+        "md5": "f76076733dcef3aede92d2d5ea2e3138"
+    },
+    {
+        "path": "luxury-dining-tables-a-complete-guide-to-high-end-design-materials-and-custom-craftsmanship",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/luxury-dining-tables-a-complete-guide-to-high-end-design-materials-and-custom-craftsmanship/index.html",
+        "type": "file",
+        "md5": "b71419d0fbcb1c27414dec9166dff50d"
+    },
+    {
+        "path": "luxury-dressers-usa-bespoke-bedroom-storage-for-elegant-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/luxury-dressers-usa-bespoke-bedroom-storage-for-elegant-interiors/index.html",
+        "type": "file",
+        "md5": "6939999023cbacc84e2879fae20d9aa8"
+    },
+    {
+        "path": "luxury-furniture-usa-high-end-interior-design-and-bespoke-living-spaces",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/luxury-furniture-usa-high-end-interior-design-and-bespoke-living-spaces/index.html",
+        "type": "file",
+        "md5": "a76550a436a4652661160ce097f11352"
+    },
+    {
+        "path": "luxury-handmade-furniture-usa-artisan-craftsmanship-for-high-end-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/luxury-handmade-furniture-usa-artisan-craftsmanship-for-high-end-interiors/index.html",
+        "type": "file",
+        "md5": "96da7d9ffa8cb562b984da2a4b4d5939"
+    },
+    {
+        "path": "luxury-sofa-sets-usa-high-end-living-room-design-and-bespoke-seating-collections",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/luxury-sofa-sets-usa-high-end-living-room-design-and-bespoke-seating-collections/index.html",
+        "type": "file",
+        "md5": "0b2aa548bf633e344fa7a69a55b60dd8"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/Mobilia-Cleopatra-Logo.webp",
+        "type": "file",
+        "md5": "d15ae83c31afefc4dce17b169693afaf"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-2xl.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-lg.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-md.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-sm.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-xl.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-xs.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "bd0c0cb0f807e35c8d7764cec718113a"
+    },
+    {
+        "path": "page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/3/index.html",
+        "type": "file",
+        "md5": "7bc0ef5c9e1c01d7eeb0a9b07895f34d"
+    },
+    {
+        "path": "page/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/4/index.html",
+        "type": "file",
+        "md5": "ee3c052cc46fd29752a162e1c0d2e609"
+    },
+    {
+        "path": "page/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/5/index.html",
+        "type": "file",
+        "md5": "9335ed920cf91f2fd1f67bb19eeaad7c"
+    },
+    {
+        "path": "page/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/6/index.html",
+        "type": "file",
+        "md5": "9559332a0324eb54eb1e0fab96356c9e"
+    },
+    {
+        "path": "page/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/7/index.html",
+        "type": "file",
+        "md5": "5b2bb4857b9f3a58024cf930326eae89"
+    },
+    {
+        "path": "page/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/8/index.html",
+        "type": "file",
+        "md5": "e31c17c8770568f4f8bb3a5d3e79deae"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "bdac50d73f74269ba53a480a3359694f"
+    },
+    {
+        "path": "shop-now-pay-later-furniture-usa-luxury-furniture-financing-and-installment-guide",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/shop-now-pay-later-furniture-usa-luxury-furniture-financing-and-installment-guide/index.html",
+        "type": "file",
+        "md5": "63ed15a1d8ebc3ad9ff47a29a9c6704f"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "a1b74c932088a0d8724fe5cace520768"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "098dce213007f3236ab3679706e81d27"
+    },
+    {
+        "path": "traditional-french-furniture-a-complete-guide-to-timeless-luxury-and-classic-design",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/traditional-french-furniture-a-complete-guide-to-timeless-luxury-and-classic-design/index.html",
+        "type": "file",
+        "md5": "f5f9818fe9c1b0f3bf21bd752cabbbea"
+    },
+    {
+        "path": "victorian-furniture-the-complete-guide-to-luxury-craftsmanship-timeless-design-and-elegant-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/victorian-furniture-the-complete-guide-to-luxury-craftsmanship-timeless-design-and-elegant-interiors/index.html",
+        "type": "file",
+        "md5": "adbf8ecc5915b673680b7652cb829178"
+    },
+    {
+        "path": "victorian-style-furniture-a-complete-guide-to-luxury-design-craftsmanship-and-timeless-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/victorian-style-furniture-a-complete-guide-to-luxury-design-craftsmanship-and-timeless-interiors/index.html",
+        "type": "file",
+        "md5": "07f8f17f35db43a1155df92acb2a4835"
+    }
+]
